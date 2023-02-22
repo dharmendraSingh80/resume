@@ -1,6 +1,9 @@
 # My resume
 This is my resume project built using HTML, CSS, JavaScript
 
+## Hosted URL
+https://dharmendrasingh80.github.io/resume/
+ 
 ## Screenshots
 ### About
 ![Screenshot (35)](https://user-images.githubusercontent.com/114590452/220708280-39f0f03a-3cd0-4daa-a990-dd4234e1b850.png)
